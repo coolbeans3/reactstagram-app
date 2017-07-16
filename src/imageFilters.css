@@ -1,0 +1,40 @@
+
+.grayscale {
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+
+.sepia {
+    -webkit-filter: sepia(1);
+    filter: sepia(1);
+}
+
+.saturate {
+    -webkit-filter: saturate(8);
+    filter: saturate(8);
+}
+
+.hue-rotate {
+    -webkit-filter: hue-rotate(90deg);
+    filter: hue-rotate(90deg);
+}
+
+.invert {
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}
+
+.bright {
+    -webkit-filter: brightness(3);
+    filter: brightness(3);
+}
+
+.contrast {
+    -webkit-filter: contrast(4);
+    filter: contrast(4);
+}
+
+.blur {
+    -webkit-filter: blur(1px);
+    filter: blur(1px);
+}
